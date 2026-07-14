@@ -1,0 +1,82 @@
+{
+  "cars": [
+    {
+      "name": "DEFENDER",
+      "image": "https://cdn-s3.autocarindia.com/legacy/cdni/ExtraImages/20230426025944_DEF_24MY_OUTBOUND_260423_01.jpg?w=728&q=75",
+      "price": "2.7 cr",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "jeep wrangler",
+      "image": "https://images.cdn.autocar.co.uk/sites/autocar.co.uk/files/styles/gallery_slide/public/jeep-wrangler-review-2024-01-cornering-front.jpg?itok=d7X7AJt6",
+      "price": "75 lakhs"
+    },
+    {
+      "name": "AUDI Q7",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz7KrEVoQ9RUCGvP58FGAJT9fb0PK46P4l_Pb7xbb11KuLmZyG6yWuO3U&s=10",
+      "price": "73 lakhs",
+      "id": "3"
+    },
+    {
+      "id": "4",
+      "name": "Mahindra Thar",
+      "image": "https://www.team-bhp.com/forum/attachments/indian-car-scene/2846127-mahindra-thar-roxx-star-edition-launched-16-85-lakhs-20260123_222452.jpg",
+      "price": "25 lakhs"
+    },
+    {
+      "name": "FORTUNER",
+      "image": "https://www.carstudiomohali.com/wp-content/uploads/2024/05/Fortuner-Car-Price-In-India.jpg",
+      "price": "65 Lakhs",
+      "id": "S0vhjvK"
+    },
+    {
+      "name": "BMW-7 SERIES",
+      "image": "https://cdn-s3.autocarindia.com/legacy/cdni/ExtraImages/20230106025629_P90486165_highRes_the_new_bmw_760i_xdr.jpg?w=728&q=75",
+      "price": "1.85 cr",
+      "id": "gub-yA8"
+    },
+    {
+      "name": "Ferrari Purosangue",
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Ferrari/Purosangue/9317/1663156716477/front-left-side-47.jpg",
+      "price": "5 cr",
+      "id": "x_sH3G7"
+    },
+    {
+      "name": "Ford Mustang V8 ",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbgBZWcwMsT6Udu4DFOETN9yOv7j4-afgY8PCfKCsrX2CyQ8RSpe_pEdA&s=10",
+      "price": "80 lakhs",
+      "id": "L6ut4GZ"
+    },
+    {
+      "name": "Bentley",
+      "image": "https://cdn.bigboytoyz.com/new-version/brandmodels/flying-spur.jpg",
+      "price": "4 cr",
+      "id": "lUObi_G"
+    },
+    {
+      "name": "Rolls-Royce",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQIQi1iBlwp8ciKL5np7I_H0Cr-YvSSMyARyBlYKiFyuQOkvXiiP-r0aNT5&s=10",
+      "price": "9 cr",
+      "id": "UjgQxJ9"
+    },
+    {
+      "name": "Torino 1969",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWM0xs4sIQ1qEjFCn_V2-YkpJpfofNznn17CFnOYpATA&s",
+      "price": "25000$",
+      "id": "XLyhZOK"
+    },
+    {
+      "name": "Lamborghini Revuelto",
+      "image": "https://i.gaw.to/content/photos/67/96/679666-lamborghini-revuelto-essai-routier.jpeg",
+      "price": "8.7 cr",
+      "id": "TmpRmWt"
+    },
+    {
+      "name": "De Tomaso Pantera",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/DeTomasoPanteraBlack.jpg/1280px-DeTomasoPanteraBlack.jpg",
+      "price": "110,000 $",
+      "id": "Cof8uc1"
+    }
+  ]
+}
