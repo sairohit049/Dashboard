@@ -1,5 +1,5 @@
 async function fetchdata() {
-    let res=await fetch("https://dashboard-vi12.onrender.com/cars")
+    let res=await fetch("https://dashboard-1-backend-dcy8.onrender.com/cars")
     try {
         if(!res.ok){
             console.log("re-verify the code");
@@ -48,7 +48,7 @@ let sid=document.getElementById("id")
 let sname=document.getElementById("name")
 let slink=document.getElementById("link")
 let sprice=document.getElementById("price")
-let res=await fetch(`https://dashboard-vi12.onrender.com/cars/${id}`)
+let res=await fetch(`https://dashboard-1-backend-dcy8.onrender.com/cars/${id}`)
 try {
     if(!res.ok){
         console.log("success");
@@ -66,7 +66,7 @@ try {
 }
 //deleting the data
 async function deletedata(id){
-    let res=await fetch(`https://dashboard-vi12.onrender.com/cars/${id}`,{"method": "DELETE"})
+    let res=await fetch(`https://dashboard-1-backend-dcy8.onrender.com/cars/${id}`,{"method": "DELETE"})
     try {
         if(!res.ok){
             console.log("mistake found");
@@ -89,7 +89,7 @@ async function editdata(){
         "image":link,
         "price":price
     }
-    let res=await fetch(id?`https://dashboard-vi12.onrender.com/cars/${id}`:`https://dashboard-vi12.onrender.com/cars`,{
+    let res=await fetch(id?`https://dashboard-1-backend-dcy8.onrender.com/cars/${id}`:`https://dahttps://dashboard-1-backend-dcy8.onrender.com/cars`,{
         "method":id?"PUT":"POST",
         "headers":{
             "content-type":"application/json"
@@ -118,7 +118,7 @@ async function newdata(){
         "image":link,
         "price":price
     }
-    let res=await fetch(`https://dashboard-vi12.onrender.com/cars/${id}`,{
+    let res=await fetch(`https://dashboard-1-backend-dcy8.onrender.com/cars/${id}`,{
         "method":"PUT",
         "headers":{
             "content-type":"application/json"
