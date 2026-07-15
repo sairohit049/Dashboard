@@ -89,7 +89,7 @@ async function editdata(){
         "image":link,
         "price":price
     }
-    let res=await fetch(id?`https://dashboard-1-backend-dcy8.onrender.com/cars/${id}`:`https://dahttps://dashboard-1-backend-dcy8.onrender.com/cars`,{
+    let res=await fetch(id?`https://dashboard-1-backend-dcy8.onrender.com/cars/${id}`:`https://dashboard-1-backend-dcy8.onrender.com/cars`,{
         "method":id?"PUT":"POST",
         "headers":{
             "content-type":"application/json"
